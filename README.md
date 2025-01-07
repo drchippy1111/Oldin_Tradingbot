@@ -1,2 +1,2 @@
-# Oldin_Tradingbot-
-Oldin Trading bot is an automatic trading tool assign to work with all exchanges and automatically execute trades.
+# Trading Bot Project
+This project automates trading using predefined strategies.
